@@ -9,12 +9,12 @@
 				       an HTTP Request far away
 
 [![Build Status](https://travis-ci.org/CognitionGuidedSurgery/restflow.svg?branch=master)](https://travis-ci.org/CognitionGuidedSurgery/restflow)
-[![Downloads](https://pypip.in/download/restflow/badge.svg)](https://pypi.python.org/pypi/restflow/)
-[![Latest Version](https://pypip.in/version/restflow/badge.svg)](https://pypi.python.org/pypi/restflow/)
-[![Supported Python versions](https://pypip.in/py_versions/restflow/badge.svg)](https://pypi.python.org/pypi/restflow/)
-[![Development Status](https://pypip.in/status/restflow/badge.svg)](https://pypi.python.org/pypi/restflow/)
-[![Download format](https://pypip.in/format/restflow/badge.svg)](https://pypi.python.org/pypi/restflow/)
-[![License](https://pypip.in/license/restflow/badge.svg)](https://pypi.python.org/pypi/restflow/)
+[![Downloads](https://img.shields.io/pypi/dm/restflow.svg
+[![Latest Version](https://img.shields.io/pypi/v/restflow.svg
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/restflow.svg
+[![Development Status](https://img.shields.io/pypi/status/restflow.svg
+[![Download format](https://img.shields.io/pypi/format/restflow.svg
+[![License](https://img.shields.io/pypi/l/restflow.svg
 
     Author: Alexander Weigl <Alexander.Weigl@student.kit.edu>
             Nicolai Schoch <Nicolai.Schoch@iwr.uni-heidelberg.de>
